@@ -1,0 +1,36 @@
+.d1{
+    color: rgb(14, 14, 10);
+    background-color: rgb(255, 251, 0);
+    text-align: center;
+}
+p{
+    font-weight: 900;
+}
+.div2{
+    border-left: 5px solid green;
+    padding-left: 5px;
+    position:absolute;
+    left: 300px;
+    top: 70px;
+
+}
+.div3{
+    position: absolute;
+    right: 100px;
+    top: 40px;
+}
+.div4{
+    border:5px solid green;
+    border-style: dotted;
+  
+    position: absolute;
+    right: 80px;
+    top: 120px;
+    text-align: right;
+
+}
+.div5{
+   position: absolute;
+   bottom: 100px;
+   left: 900px;
+}
