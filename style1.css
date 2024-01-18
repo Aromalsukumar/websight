@@ -18,7 +18,7 @@ img{
     height: 600px;
     width: 1000px;
 }
-.part1{
+.part1 p{
     padding: 20px;
     text-align: justify;
     background-color: rgb(151, 149, 149);
