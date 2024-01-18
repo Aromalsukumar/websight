@@ -1,0 +1,52 @@
+body{background-color: rgb(65, 63, 63);}
+.div{
+   
+    color: rgb(255, 255, 255);
+    background-color: rgb(119, 3, 3);
+    padding: 30px;
+    margin-bottom: 5px;
+}
+.div1{
+    background-color: whitesmoke;
+    padding: 5px;
+    margin-top:10px;
+}
+img{
+    float: left; 
+}
+.part1{
+    height: 600px;
+    width: 1000px;
+}
+.part1 p{
+    padding: 20px;
+    text-align: justify;
+    background-color: rgb(151, 149, 149);
+}
+.part1 img{
+    padding:40px;
+}
+.div2{
+    position: absolute;
+    right:25px;
+    top: 180px;
+    margin-top:10px;
+}
+.div2{
+    width:600px ;
+    padding:40px;
+    background-color: gray;
+}
+.div2{
+    text-align: justify;
+}
+
+ul li{
+    font-size: 15px;
+    font-weight: 700;
+}
+.div3{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
