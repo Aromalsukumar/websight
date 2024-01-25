@@ -1,0 +1,23 @@
+body{
+    background-image: url(./photos/form\ bg.jpg);
+    background-size: cover;
+}
+textarea{
+    font-size:30px;
+    width: 600px;
+    height: 400px;
+}
+.tnx{
+    position: absolute;
+    left: 500px;
+}
+button{
+    position: absolute;
+    left: 500px;
+    top: 30px;
+}
+.bt1{
+    position: absolute;
+    left: 570px;
+    width:90px;
+}
