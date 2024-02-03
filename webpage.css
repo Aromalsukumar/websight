@@ -1,0 +1,52 @@
+.img1{
+    background-image:url(./photos/swoft.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+
+ 
+}
+.navbar{
+    background: transparent;
+}
+
+.head{
+    color: white;
+    font-size: 60px;
+    position:absolute;
+    top: 90px;
+    left: 150px;
+}
+.para1{
+    color: white;
+    font-size: large;
+    position:absolute;
+    top: 310px;
+    left: 50px;
+}
+.head1{
+    text-align: center;
+}
+.head2{
+    text-align: center;
+    font-size: 60px;
+}
+.bgclo{
+    background-color: rgb(187, 182, 182);
+}
+.head3{
+    text-align: center;
+    font-size:60px;
+}
+.backimg{
+    background-image: url(./photos/swbackg.avif);
+    color: white;
+}
+.head4{
+    text-align: center;
+    font-size: 60px;
+}
+.styl4 img{
+    height: 200px;
+}
