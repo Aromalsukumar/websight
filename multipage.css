@@ -1,0 +1,48 @@
+.navbar1{
+    background-color: rgb(126, 4, 4);
+}
+.logo1{
+    padding: 10px;
+}
+
+.main{
+    background-image:url("photos/resortbg.jpg");
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+
+}
+ul{
+    float: right;
+    list-style-type:none;
+    margin-top: 30px;
+    min-height: 40px;
+    margin-right: 50px;
+    font-size: 30px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration:none;
+    color: white;
+    padding: 5px 20px;   
+}
+ul li a:hover{
+    text-decoration-line:underline;
+    color: white;
+
+}
+.sub-menu{
+    display: none;
+    position: relative;
+}
+.sub-menu ul{
+    position: absolute;
+}
+
+
+ 
+
+  
