@@ -1,0 +1,84 @@
+.navbar1 a{
+    color: black;
+}
+.navbar1 :hover{
+    color: orangered;
+}
+.future{
+    font-family: "Inter", sans-serif;
+    font-weight:800;
+    font-size: 42px;
+    color: black;
+}
+.para{
+    line-height: 1.8;
+    color: hsl(236, 13%, 42%);
+    width: 400px;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.bttn{
+    background-color: hsl(5, 85%, 63%);
+    color: #fff;
+    padding: 0.8rem 2rem;
+    font-size: 1rem;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    transition: all 0.3s ease-in-out;
+    margin-left:30px ;
+}
+.bttn:hover{
+    background-color: black;
+}
+.new1{
+    background-color: black;
+    width: 270px;
+    margin-left: 150px;
+    font-family: "Inter", sans-serif;
+    
+}
+.new1 h2{
+    color: hsl(35, 77%, 62%);
+    margin-top: 10px;
+}
+.new1 h3{
+    color: white;
+    font-size: 23px;
+    font-weight: 800;
+}
+.new1 h3:hover{
+    color: hsl(35, 77%, 62%);
+}
+.bord{
+    color: hsl(236, 13%, 42%);
+    border-bottom: 1px solid hsl(236, 13%, 42%);
+    padding-bottom:20px;  
+   
+}
+.pc span { 
+    color: hsl(236, 13%, 42%);  
+    font-size: 40px;
+    font-weight:bolder ;
+    margin-left:-50px;
+    
+}
+.pc h3{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-left:-50px;
+}
+.pc p{
+    color: hsl(236, 13%, 42%); 
+    margin-top: 30px;
+    font-size: 15px;
+    margin-left:-50px;
+}
+.end{
+    color: black;
+    text-align: center;
+    margin-top: 60px;
+}
+
